@@ -3,6 +3,8 @@ Aims to detect blank pages from PDFs using Python and ImageMagick.
 
 * Python
 * ImageMagick
+* pdf2image
+* Python Pillow
 
 **Usage**
 
