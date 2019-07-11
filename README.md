@@ -1,4 +1,6 @@
-Aims to detect blank pages from PDFs using Python and ImageMagick.
+*Aims to detect blank pages from PDFs using Python and ImageMagick.*
+
+
 **Prerequisites**
 
 * Python
